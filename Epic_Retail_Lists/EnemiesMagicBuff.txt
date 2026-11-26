@@ -1,1 +1,7 @@
-a
+Unholy Frenzy
+Bloodlust
+Battle Shout
+Improved Blocking
+Reflection Field
+Holy Fury
+Fire Shield

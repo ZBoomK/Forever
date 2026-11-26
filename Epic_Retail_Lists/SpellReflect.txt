@@ -1,1 +1,18 @@
-a
+Fireball
+Frostbolt
+Firebolt
+Shadow Bolt
+Shadow Bolt Volley
+Chain Lightning
+Arcane Lightning
+Polymorph
+Mind Flay
+Fear
+Time Stop
+Poison Spit
+Holy Wrath
+Holy Fire
+Energy Bolt
+Lightning Bolt
+Pyroblast
+Death Grip
